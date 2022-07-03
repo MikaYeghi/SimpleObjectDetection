@@ -3,3 +3,4 @@ data/
 __pycache__/
 inference_outputs/
 outputs/
+cars_data/
